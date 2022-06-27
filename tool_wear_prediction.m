@@ -17,7 +17,7 @@ wearfolderdir = wearfiles2;
 
 %loads the trained network
 warning('off','all');
-load('mainnet(0.001_0.0005_0.45)rev3.mat');
+load('mainnetrev3.mat');
 close(fig);
 
 %This function calls all functions to execute the classification and
