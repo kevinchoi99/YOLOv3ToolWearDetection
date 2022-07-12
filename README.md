@@ -15,7 +15,8 @@ In this project, an Artificial Intelligent (AI) Machine Vision (MV) system in th
     5.  Image Processing Toolbox
     6.  Parallel Computing Toolbox
 4.  Open the file 'tool_wear_prediction'
-5.  Change the 'image_folder' variable to the destination of the images that is to be detected
-6.  Run the program
+5.  Include all folders and files downloaded in the MATLAB window
+6.  Change the 'image_folder' variable to the destination of the images that is to be detected
+7.  Run the program
     
 
